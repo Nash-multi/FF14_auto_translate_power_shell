@@ -1,0 +1,2 @@
+# FF14_auto_translate_power_shell
+自動化漢化腳本
